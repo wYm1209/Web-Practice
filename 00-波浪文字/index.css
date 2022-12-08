@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(232, 71, 71);
+}
+
+.container {
+    width: 600px;
+    height: 200px;
+    margin: 200px auto;
+}
+
+span {
+    color: aliceblue;
+    float: left;
+    display: block;
+    /* background-color: red; */
+    margin: 4px;
+}
