@@ -1,2 +1,2 @@
 # Web-Practice
-Practive
+Practice
